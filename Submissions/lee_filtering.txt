@@ -1,0 +1,4 @@
+What became clearer after filtering: The 5×5 Lee filter reduced the grainy speckle in the original Sentinel-1 image. Water-like areas became more consistent and easier to distinguish from surrounding land.
+What changed near boundaries: The land–water boundaries became smoother after filtering, while the main river and water edges remained visible. However, some small-scale variations and fine details near the boundaries became less distinct due to smoothing.
+
+Overall: The filtered image is easier to interpret for an early flood assessment, but it should be used to identify likely flooded areas, not as a definitive flood-extent map.

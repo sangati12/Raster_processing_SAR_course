@@ -1,0 +1,60 @@
+## NDVI Calculations and Vegetation Condition Interpretation
+
+The NDVI formula used for all three examples is:
+
+**NDVI = (Near-Infrared − Red) ÷ (Near-Infrared + Red)**
+
+### Example 1: Dense Forest Area
+
+* **Near-Infrared (NIR) = 0.65**
+* **Red = 0.20**
+
+Calculation:
+
+**NDVI = (0.65 − 0.20) ÷ (0.65 + 0.20)**
+
+**NDVI = 0.45 ÷ 0.85**
+
+**NDVI = 0.53**
+
+**Interpretation: Dense, healthy vegetation**
+
+The NDVI value of **0.53** is strongly positive, indicating a strong vegetation signal. The relatively high NIR reflectance compared with the red reflectance is typical of healthy vegetation. Therefore, this example is classified as **dense, healthy vegetation**.
+
+Example 2: Sparse Vegetation Area
+
+* Near-Infrared (NIR) = 0.35
+* Red = 0.30
+
+Calculation:
+
+**NDVI = (0.35 − 0.30) ÷ (0.35 + 0.30)**
+
+**NDVI = 0.05 ÷ 0.65**
+
+**NDVI = 0.08**
+
+**Interpretation: Sparse or mixed vegetation**
+
+The NDVI value of **0.08** is close to zero, indicating a weak vegetation signal. The NIR and red reflectance values are relatively similar, which suggests that vegetation is sparse or that the surface contains a mixture of vegetation and non-vegetated areas. Therefore, this example is classified as **sparse or mixed vegetation**.
+
+---
+
+### Example 3: Bare or Stressed Area
+
+* **Near-Infrared (NIR) = 0.15**
+* **Red = 0.18**
+
+Calculation:
+
+**NDVI = (0.15 − 0.18) ÷ (0.15 + 0.18)**
+
+**NDVI = −0.03 ÷ 0.33**
+
+**NDVI = −0.09**
+
+**Interpretation: Bare ground or stressed vegetation**
+
+The NDVI value of **−0.09** is negative, meaning the red reflectance is slightly higher than the NIR reflectance. This indicates little or no healthy vegetation signal and is consistent with a bare, non-vegetated, or highly stressed surface. Therefore, this example is classified as bare ground or stressed vegetation
+
+Overall, the results are logically consistent: higher positive NDVI indicates a stronger vegetation signal, while values close to zero or below zero indicate sparse, stressed, or non-vegetated surfaces.

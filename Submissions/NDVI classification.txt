@@ -1,0 +1,4 @@
+NDVI Vegetation Condition Classification
+NDVI = 0.53 → Dense, healthy vegetation
+NDVI = 0.08 → Sparse or mixed vegetation
+NDVI = −0.09 → Bare ground or stressed vegetation

@@ -1,0 +1,22 @@
+## Review of Imagery Products
+
+### Product A – Top-of-Atmosphere (TOA) Reflectance
+
+Product A provides **top-of-atmosphere (TOA) reflectance**. It has been corrected for **sensor calibration and sun angle**, which helps account for differences caused by the sensor and the position of the Sun during image acquisition.
+
+However, **atmospheric effects are still present** in this product. Atmospheric scattering and absorption can change the amount of radiation measured by the sensor. As a result, the reflectance values may be influenced by the atmosphere in addition to the actual characteristics of the Earth's surface.
+
+### Product B – Surface Reflectance
+
+Product B provides **surface reflectance**, meaning that atmospheric effects have been corrected to estimate the reflectance of the Earth's surface more directly.
+
+**Atmospheric scattering and absorption have been removed**, making the data less affected by atmospheric conditions. Product B is therefore designed to support more reliable comparisons between **different dates and locations**.
+
+### Key Difference
+
+The main difference between the two products is the treatment of atmospheric effects:
+
+* **Product A:** Atmospheric effects are **still present** because it is TOA reflectance.
+* **Product B:** Atmospheric effects are **corrected/removed**, providing surface reflectance that is more suitable for comparison.
+
+Therefore, Product B generally provides a more consistent representation of surface conditions when comparing imagery acquired at different times or locations.

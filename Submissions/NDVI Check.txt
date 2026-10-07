@@ -1,0 +1,9 @@
+NDVI Sanity Check — Confirmation
+
+☑ Higher NDVI values indicate stronger vegetation signals.
+
+☑ Lower or negative NDVI values indicate sparse or stressed surfaces.
+
+☑ NDVI interpretations align with the example descriptions.
+
+Confirmation: All calculations and vegetation interpretations are logically consistent with the NDVI formula and the expected vegetation conditions.

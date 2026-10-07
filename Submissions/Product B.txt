@@ -1,0 +1,2 @@
+Selected Product: Product B
+Reason: Product B is surface reflectance, with atmospheric scattering and absorption largely removed. This makes it more suitable for consistent NDVI interpretation across different dates and locations.

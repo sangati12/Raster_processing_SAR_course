@@ -1,0 +1,19 @@
+I understand the NDVI formula:
+
+NDVI = (Near-Infrared − Red) ÷ (Near-Infrared + Red)
+
+The numerator is calculated by subtracting the Red reflectance value from the Near-Infrared (NIR) reflectance value.
+
+The denominator is calculated by adding the Near-Infrared (NIR) and Red reflectance values.
+
+
+NDVI Interpretation Range
+NDVI Value	Interpretation
+-1 to 0	Water, bare surfaces, or non-vegetated areas
+0 to 0.2	Bare soil, rock, or very sparse vegetation
+0.2 to 0.4	Sparse or moderate vegetation
+0.4 to 0.6	Moderate to healthy vegetation
+0.6 to 0.8	Healthy, dense vegetation
+0.8 to 1.0	Very dense and highly healthy vegetation
+
+These ranges provide a general interpretation of vegetation condition. Higher positive NDVI values generally indicate healthier and denser vegetation, while values near zero or below zero indicate little or no vegetation.

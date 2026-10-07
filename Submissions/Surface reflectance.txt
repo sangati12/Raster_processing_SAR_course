@@ -1,0 +1,3 @@
+Surface reflectance allows consistent comparison across scenes.
+
+Justification: Product B is the better choice because surface reflectance has atmospheric effects largely removed. This makes NDVI values more consistent and reliable when comparing vegetation across different dates and locations.

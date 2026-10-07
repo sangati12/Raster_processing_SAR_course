@@ -1,0 +1,2 @@
+Product A,Atmospheric effects present
+Product B,Atmospheric effects largely removed
